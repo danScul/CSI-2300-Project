@@ -16,8 +16,10 @@ When an item is checked out, it will be marked as such and unable to be checked 
 Estimate of Effort: The bulk of the effort involved in the creation of this application would be the collection system as well as the implementation of the GUI.
 The program requires the use of an array of 'Book' objects. Properly maintaining this array and keeping the user data associated will require testing to ensure it is all handled properly.
 The implentation of the GUI may take some more signifcant time as well due to the multiple ways of sorting and displaying the information.
-This program is intended to be a resource to help catalogue and maintain a large collection of books, such as for a library.
 
+
+
+How to use: Upon launch a window will open. In the top left will be where you can view your catalogue of books.
 
 Below it is a series of four buttons: Add, Remove, Check Out, and Check In.
 
